@@ -5,3 +5,27 @@
 ## Description 
 It's a simple project using JS, HTML and CSS. We can change the font size with the "zipper" (**input type range**), and choose one of several fonts.
 
+## Usage 
+
+First, run the development server:
+
+```bash
+git clone https://github.com/Wikaobl/slider-and-font-changer
+```
+
+Next, install dependencies
+
+```bash
+cd slider-and-font-changer
+npm install
+```
+
+Run the project
+
+```bash
+npm run
+```
+
+After successfully starting the project, open your web browser and go to the specified URL http://localhost:3000
+
+### Have fun! 🐸
